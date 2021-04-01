@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drsantanuguptaa
 - 👀 I’m interested in ...CODING
 - 🌱 I’m currently learning ...R
-- 💞️ I’m looking to collaborate on ...WETLANDS
+- 💞️ I’m looking to collaborate on ...RESEARCH
 - 📫 How to reach me ...mail drsantanugupttaa@gmail.com
 
 <!---
